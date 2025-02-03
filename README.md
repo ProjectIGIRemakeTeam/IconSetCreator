@@ -17,3 +17,6 @@ Available for macOS El Capitan (10.11) and above.
 
 ### Support
 For bug reports and feature requests, contact me on Twitter [@nicolasmiari](https://twitter.com/nicolasmiari).
+
+All rights to
+https://nicolasmiari.com/apps/IconSetCreator/
